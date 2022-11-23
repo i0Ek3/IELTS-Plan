@@ -8,3 +8,7 @@
 - https://ethan-lin.gitbook.io/ielts/
 - https://immortalqx.github.io/2021/07/28/ielts-1/
 - https://xunlutzp.github.io/Ch3_yu-yan-xue-xi-jie-shao/2-1_ya-si-kao-shi-jing-yan/
+
+## 真题资料整理
+
+Cambridge 1-17 https://www.aliyundrive.com/s/52KEauSC6CJ 提取码：yasi
