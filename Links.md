@@ -4,6 +4,7 @@
 
 ## 网上收集
 
+- https://www.ielts.org
 - https://www.chinaielts.org/
 - https://www.ieltsasia.org/th/zh
 - https://www.zhihu.com/question/29969872
@@ -13,6 +14,7 @@
 
 ## 官网内容
 
+- [题型介绍](https://www.chinaielts.org/guide/sample_questions.shtml#)
 - [模拟考试](https://www.chinaielts.org/guide/score_sample.shtml\?_ga\=2.184113190.1213554454.1674813864-226048656.1674813864)
 - [自学手册](https://www.chinaielts.org/guide/suggestion_professional/97461.shtml)
 - [考点信息](https://ielts.neea.cn/showTestCenters?productType=IELTSPBT)
