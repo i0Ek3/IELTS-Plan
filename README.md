@@ -16,7 +16,7 @@
 
 张雪峰教你考雅思：
 
-![](https://github.com/i0Ek3/IELTS-Plan/blob/master/how.jpg)
+![](https://github.com/i0Ek3/IELTS-Plan/blob/main/how.jpg)
 
 ## References
 
