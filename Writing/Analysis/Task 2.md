@@ -10,6 +10,32 @@ P3：陈述自己的观点（或者反向说明）+具体原因+举例说明
 
 P4：总结：说明讨论的点，重申观点
 
+
+
+## It is generally believed that some people are born with certain talents, for instance for sport or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician.
+
+### Before(me, band 6)
+
+There is a firce debate whether the talent is born with or can be teach. However, it really depends. In some fields, for example, mathmatical and physical, people were required certain talents which is born with. And in other fields such as psycology, you can be a talent by teaching.
+
+There are serveral fields need people born with talents. For example, mathmatical, physical and algorithm are also requires highly logical ability. As an example, Alstein is a famous and talent physist who was proposed the relative theory which is sophisicated physical theory and applied broadly. This is a breaking inovation of this world. However, if there is no such people like Alstein, our world still may remain on primitive stage.
+
+There is also are opportunities for those people who bornt normally. The true that most of people are under this range. For example, for now, Cao is a famous singer who write songs for  those super stars. But before that, you may even don't know him or never heard of him. He is really like sing songs and want be a singer. However, there is no music producer want sign him, but he never give up and he practice sing ability harder more than ever. And one day, his song just on the top, he just made it happen.
+
+In conculsion, those fields which are required strong logical exactly need people born with talents. By contrast, those fields which are required emotional needs can be taugh.
+
+### After(kimi, band 9)
+
+There is a fierce debate over whether talent is innate or can be taught. However, it really depends. In some fields, for example, mathematics and physics, people require certain innate talents. And in other fields such as psychology, one can become talented through teaching.
+
+There are several fields that need individuals born with talent. For example, in mathematics, physics, and algorithm design, highly logical abilities are required. As an example, Einstein was a famous and talented physicist who proposed the theory of relativity, a sophisticated physical theory that is widely applied. This was a groundbreaking innovation for our world. However, without individuals like Einstein, our world might still be at a primitive stage.
+
+There are also opportunities for those born with ordinary abilities. The truth is that most people fall into this range. For example, Jack Ma, the founder of Alibaba, was not an overnight success. He faced many rejections and failures before he became one of the most successful businessmen in the world. His story shows that with perseverance and hard work, one can achieve great things even without exceptional innate talent.
+
+In conclusion, fields that require strong logical abilities do need individuals born with talent. By contrast, fields that require emotional intelligence can be taught. It is the combination of innate talent and acquired skills that truly drives success.
+
+Ps: the wierd thing is that I use an example of Cao but kimi replace it with Jack Ma, what fuck of that?
+
 ## Become more dependent or independent?
 
 论点：更加独立。首先是科技的创新，让我们可以足不出户就可以享受各种服务和参加各种活动，比如线上购物、视频会议、远程工作等。这些行为都会让我们变得更加独立。其次，大学生活以及社会工作等需要人们独自面对繁杂事务和处理复杂人际关系等，使得人们不得不变得更加独立。

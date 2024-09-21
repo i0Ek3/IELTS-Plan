@@ -1,5 +1,23 @@
 # Task 1
 
+## The table below gives information on consumer spending on different items in five different countries in 2002.
+
+### Before(me, band 6)
+
+The plain table shows the data on consumer spending on different items in five different countries over 2002. In particullarly, the table shows percentage of national consumer expenditure by different categories.
+
+It is clear that Turkey reaches 32.14% on food, drinks and tobacco, which is the highest porprotion. By contrast, Sweden reaches 15.77% which is the lowest percentage on these needs. For clothing and footwear needs, Italy have the highest percentage which is 9%, and Sweden still is the lowest one which is 5.4%. For leisure and education, Turkey also have the highest percentage which is 4.35%, and Spain have the lowest percentage which is 1.98%.
+
+The fact that all of these countries' consumer have similar consumation habits which is likely pay more money on food, drinks and tobaco, and pay less money on leisure and education. Besides, the expenditure on food, drinks and tobacco more than multiple times with other needs. 
+
+### After(Kimi, band 7)
+
+The table presents data on consumer spending on different items in five countries for the year 2002. Specifically, it shows the percentage of national consumer expenditure by various categories.
+
+It is evident that Turkey spends the highest proportion, at 32.14%, on food, drinks, and tobacco. In contrast, Sweden has the lowest percentage for these items, at 15.77%. Regarding clothing and footwear, Italy has the highest percentage at 9%, while Sweden remains the lowest at 5.4%. For leisure and education, Turkey also leads with the highest percentage, 4.35%, and Spain trails with the lowest percentage, at 1.98%.
+
+A common consumption pattern among these countries is that consumers tend to spend more on food, drinks, and tobacco and less on leisure and education. Moreover, the expenditure on food, drinks, and tobacco is multiple times higher than that on other needs.
+
 ## Monthly Temperature and Precipitation
 
 ### Before(me, band 6)
