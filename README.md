@@ -2,6 +2,16 @@
 
 Personal preparation record for IELTS.
 
+## Goal
+
+Overall socre \>= 7, subscore >= 6.
+
+There'll be three stages through the preparation:
+
+- Special training: C4-C10
+- Intensive training: C11-C15
+- Sprint before exam: C16-C19
+
 
 ## Enrollment
 

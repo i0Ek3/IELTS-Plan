@@ -34,7 +34,7 @@ There are also opportunities for those born with ordinary abilities. The truth i
 
 In conclusion, fields that require strong logical abilities do need individuals born with talent. By contrast, fields that require emotional intelligence can be taught. It is the combination of innate talent and acquired skills that truly drives success.
 
-Ps: the wierd thing is that I use an example of Cao but kimi replace it with Jack Ma, what fuck of that?
+Ps: The wierd thing is that I use an example of Cao but kimi replace it with Jack Ma, what fuck of that?
 
 ## Become more dependent or independent?
 
