@@ -10,7 +10,31 @@ P3：陈述自己的观点（或者反向说明）+具体原因+举例说明
 
 P4：总结：说明讨论的点，重申观点
 
+## Should ban testing on animals
 
+论点1：不该禁止。从人类整体的福祉考虑，动物实验可以测试新药以及治疗绝症，可以为人类以及其他动物带来新的机遇。此外，有些动物的基因和人类很相似，可以更好地进行测试，从而将研究成果应用到人类身上。因此在没有找到其他可以测试研究的方案之前，不应禁止动物实验。
+
+论点2：应该禁止。动物也是有感情的，它们可以理解当下环境的情况。用动物做实验会导致动物本身的痛苦，以及影响生态平衡，降低动物种族的数量。
+
+### Before(me, band 6)
+
+There is an argument on whether ban testing on animals among the people. In my opinion, we can use animals to test state-of-art researches in a limited situation.
+
+Considerably, we shouldn't ban testing on animals, because of some animals can be used to testing new drugs and do novelty researches, which is helpful to understand and heal human beings themselves. Therefore, we should use limited numbers of animal before finding a new solution which can be used to testing drugs. 
+
+Counterpartly, animal testing should be banned under the moral framework and balanced ecosystem. It is true that animals also have feelings and emotions. They can feel the pain and understand the situations under the different astomespheres. Additionally, animals testing will reduce the number of it's flocks, and also impact the balance of ecosystem.
+
+Broadly speaking, I do not think that ban testing on animals can solve basic problems of our human beings faced in a long way.
+
+### After(kimi, band 9)
+
+There is an ongoing debate on whether animal testing should be banned. In my opinion, animals can be used for testing cutting-edge research in a limited set of circumstances.
+
+On the one hand, we shouldn't ban animal testing because some animals can be used to test new drugs and conduct novel research, which can help us understand and treat human ailments. Therefore, we should use a limited number of animals for testing until we find an alternative solution.
+
+On the other hand, animal testing should be banned under the moral framework and for the sake of ecological balance. It is true that animals also have feelings and emotions. They can feel pain and understand their environments. Additionally, animal testing can reduce populations and impact the balance of ecosystems.
+
+In conclusion, I do not believe that banning animal testing would address the fundamental issues our species faces in the long term. Instead, we should seek alternatives while recognizing the necessity in specific, limited situations.
 
 ## It is generally believed that some people are born with certain talents, for instance for sport or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician.
 

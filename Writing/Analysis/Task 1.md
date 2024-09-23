@@ -1,5 +1,29 @@
 # Task 1
 
+## Global water use by sector
+
+### Before(me, band 6)
+
+The dotted graph shows the global water using trend by different sectors between 1990 and 2000, and the table shows the data on water consumption in Brazil and Congo in 2000.
+
+It is evident that different sectors water using trend both are increasely. However, water used by agriculture highly more than others. And in the year 2000, we also can see that the water consumption of Brazil is higher than Congo.
+
+In 1900, there was huge difference in global water used by agriculture than other sectors, which is reaches in 500. Whereas the global water used by industrial and demestic far lower than that value, which amount is 200. By 2000, agriculture water using was twofold of industiral using and threefold of domestic use, which almost is 3000.
+
+In the year 2000, Brazil and Congo had 176m and 5.2m population respectively. And with mind with that, Brazil's water consumption was more than 40 times of Congo, which are 359 and 8 respectively.
+
+### After(kimi, band 7)
+
+The dotted graph illustrates the global water usage trend by different sectors between 1990 and 2000, while the table presents data on water consumption in Brazil and Congo in 2000.
+
+It is evident that the water usage trend is increasing for all sectors, with agriculture consuming the highest amount of water. In the year 2000, Brazil's water consumption was notably higher than that of Congo.
+
+In 1990, there was a significant difference in global water usage by agriculture compared to other sectors, reaching a value of 500 units. In contrast, the water usage by industry and domestic sectors was considerably lower, amounting to 200 units each. By 2000, agriculture's water usage had doubled that of industry and tripled that of domestic use, reaching nearly 3000 units.
+
+In the year 2000, Brazil and Congo had populations of 176 million and 5.2 million, respectively. Consequently, Brazil's water consumption was more than 40 times that of Congo, with figures standing at 359 million cubic meters for Brazil and 8 million cubic meters for Congo.
+
+
+
 ## The table below gives information on consumer spending on different items in five different countries in 2002.
 
 ### Before(me, band 6)
