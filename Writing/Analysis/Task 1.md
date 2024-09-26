@@ -1,5 +1,37 @@
 # Task 1
 
+## Average house prices in five cities
+
+### Before(me, band 6)
+
+The solid bar chart compares the expenditure in different cities over the period of 13 years from 1989.
+
+It is evident that the price had dropped out so much between 1990 and 1995, whereas the price had incresed from 1996 to 2002. The London's price increased faster than others.
+
+Between 1990 and 1995, most cities have downward trend in house price, which New York is 5%, Tokyo and London both are 8%. By contrast, the Madrid and Frankfurt have upward trend during this period, which is 2% and 3% represitively.
+
+After 1996, the cost of house have a significant change between most cities. The New York's percentage had reached to 5%, the Madrid had reached to 4%, even the Frankfurt also had reached to 2%. However, the London have the tremendous promotion, which is 12%, and Tokyo saw a 5% decline.
+
+### After(kimi, band 7)
+
+The solid bar chart compares the housing expenditure in different cities over a period of 13 years from 1989 to 2002.
+
+It is evident that there was a significant drop in prices between 1990 and 1995, while an increase was observed from 1996 to 2002. London experienced the fastest growth in housing prices.
+
+Between 1990 and 1995, most cities saw a downward trend in housing prices: New York by 5%, and both Tokyo and London by 8%. In contrast, Madrid and Frankfurt had upward trends during this period, with increases of 2% and 3%, respectively.
+
+After 1996, there was a notable change in housing costs among most cities. New York's prices increased by 5%, Madrid by 4%, and Frankfurt by 2%. However, London saw a substantial rise of 12%, and Tokyo saw a 5% decline.
+
+### After(claude, band 7.5)
+
+The bar chart compares housing expenditure in five major cities over a 13-year period from 1989 to 2002.
+
+Overall, there were two distinct trends observable: a general decline in house prices between 1990 and 1995, followed by a significant increase from 1996 to 2002. London experienced the most dramatic changes throughout this period.
+
+From 1990 to 1995, most cities witnessed a downward trend in house prices. New York saw a 5% decrease, while both Tokyo and London experienced an 8% decline. In contrast, Madrid and Frankfurt bucked this trend, showing slight increases of 2% and 3% respectively.
+
+The period from 1996 to 2002 marked a significant shift, with all cities experiencing price growth. New York's housing costs rose by 5%, Madrid by 4%, and Frankfurt by 2%. However, London stood out with a remarkable 12% increase, the highest among all cities. Tokyo's data for this period saw a 5% decline.
+
 ## Global water use by sector
 
 ### Before(me, band 6)

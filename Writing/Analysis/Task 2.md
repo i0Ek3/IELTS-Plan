@@ -1,5 +1,7 @@
 # Task 2
 
+>  大模型生成的作文仅作参考，大家要辩证的去对待。
+
 ## Template
 
 P1：概述+给出观点
@@ -10,7 +12,45 @@ P3：陈述自己的观点（或者反向说明）+具体原因+举例说明
 
 P4：总结：说明讨论的点，重申观点
 
-## Should ban testing on animals
+## Government should give finnancial support to creative artists?
+
+论点1：应该。但是资助不是无条件的，可以通过评估其作品质量进行资助，以激励他们更好地发挥才能，为这个社会的文化艺术气息增添光彩。同时应无条件为那些较为穷困且有艺术追求的艺术家进行资助，以帮助他们更好地度过困难时期。
+
+论点1：不应该。各行各业都有各自的竞争力，如果资助了艺术创作，那么其他领域也会寻求资助，但是对于政府来说这是不小的压力。因此，可以对少部分高质量的以及有很好的社会贡献力的艺术创作进行资助。
+
+### Before(me, band 6)
+
+There is an ongoing debate whether government should give finnancial support to creative artists. In my opinion, finnancial support shouldn't be an unconditional incentive, which means government should give limited finnancial support to those who give this society tremendous impact.
+
+On the one hand, finnacial support shouldn't be an unconditional behavior. The government should give finnacial support to those creative artists who did high-level artworks in order that sitimulate them to release creative talents, which can bring cultural and art astomersphere for this society. Meanwhile, the government should give finnacial support unconditionally to those artists who have high demanding to art, which can help them to overcome that tough moment.
+
+On the other hand, the government shouldn't give finnacial support to creative artists. Because of there are much fierce competitions between the artist. If government support those artists and there should be other people asking for support either, which is a huge press to government.
+
+In conclusion, I do not believe that government should give finnacial support to artists unconditionally, insteading government should give limited finnacial support to those people who have positive impact to this society.
+
+### After(kimi, band 7)
+
+There is an ongoing debate about whether the government should provide financial support to creative artists. In my opinion, financial support should not be unconditional; instead, it should be offered selectively to those artists who make a substantial impact on society. 
+
+On the one hand, financial support should be targeted. The government should offer financial support to artists who produce high-quality work, in order to stimulate their creativity and foster a rich cultural and artistic atmosphere in society. For instance, unconditional support could be given to artists with a profound dedication to their craft, helping them through difficult times. 
+
+On the other hand, some argue that the government should not provide financial support to artists. They point out the intense competition among artists; if the government supports some, others will also demand support, placing a significant burden on the government. 
+
+In conclusion, I do not believe that the government should offer financial support to artists unconditionally. Instead, the government should provide limited, targeted financial support to those individuals whose work positively impacts society.
+
+### After(Claude, band 8)
+
+There is an ongoing debate about whether governments should provide financial support to creative artists. In my opinion, while such support can be beneficial, it should not be offered unconditionally. Instead, I believe that governments should provide limited financial assistance to those artists who make significant contributions to society.
+
+Firstly, financial support should be granted judiciously and based on merit. Governments should allocate funds to artists who consistently produce high-quality work, as this approach can stimulate their creativity and encourage them to further develop their talents. This, in turn, can enrich the cultural and artistic atmosphere of society. For instance, providing grants to promising young painters or musicians can enable them to focus on their craft, potentially leading to groundbreaking artworks or compositions that elevate the nation's cultural standing. Additionally, established artists facing temporary financial hardships could receive support to help them overcome challenging periods, ensuring that valuable artistic voices are not lost due to economic pressures.
+
+However, it is crucial to acknowledge the potential drawbacks of government funding for the arts. The art world is highly competitive, and providing financial support to some artists may create a sense of inequality or favoritism. This could lead to resentment among those who do not receive funding and potentially stifle the natural evolution of artistic movements. Moreover, if the government becomes too involved in funding the arts, there is a risk of influencing artistic expression, potentially compromising the independence and authenticity of creative works. For example, artists might be tempted to conform to government preferences to secure funding, rather than pursuing their true artistic vision.
+
+To strike a balance, I propose that governments implement a transparent and merit-based system for allocating financial support to artists. This system should consider factors such as the artist's track record, the potential societal impact of their work, and their financial need. Furthermore, the support should be time-limited and subject to regular review, ensuring that funds are used effectively and that a diverse range of artists can benefit over time.
+
+In conclusion, while I do not advocate for unconditional financial support for all artists, I believe that a carefully managed system of limited government funding can play a crucial role in nurturing artistic talent and enriching our cultural landscape. By supporting those who demonstrate exceptional skill and potential to positively impact society, governments can foster a thriving artistic community without unduly influencing the natural development of creative expression.
+
+## Should ban testing on animals?
 
 论点1：不该禁止。从人类整体的福祉考虑，动物实验可以测试新药以及治疗绝症，可以为人类以及其他动物带来新的机遇。此外，有些动物的基因和人类很相似，可以更好地进行测试，从而将研究成果应用到人类身上。因此在没有找到其他可以测试研究的方案之前，不应禁止动物实验。
 
@@ -26,7 +66,7 @@ Counterpartly, animal testing should be banned under the moral framework and bal
 
 Broadly speaking, I do not think that ban testing on animals can solve basic problems of our human beings faced in a long way.
 
-### After(kimi, band 9)
+### After(kimi, band 7)
 
 There is an ongoing debate on whether animal testing should be banned. In my opinion, animals can be used for testing cutting-edge research in a limited set of circumstances.
 
@@ -48,7 +88,7 @@ There is also are opportunities for those people who bornt normally. The true th
 
 In conculsion, those fields which are required strong logical exactly need people born with talents. By contrast, those fields which are required emotional needs can be taugh.
 
-### After(kimi, band 9)
+### After(kimi, band 7)
 
 There is a fierce debate over whether talent is innate or can be taught. However, it really depends. In some fields, for example, mathematics and physics, people require certain innate talents. And in other fields such as psychology, one can become talented through teaching.
 
