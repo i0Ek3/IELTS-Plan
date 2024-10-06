@@ -1,5 +1,19 @@
 # Task 1
 
+## Map
+
+### Before(me, band 6)
+
+The map shows two locations for a brand-new supermarket in a town called Garlsdon, which have 65,000 population in this town. And there are two industry areas located in north and sorth of housing area respectively, and the town centre settled in middle of these two industry areas. There also is a railway through the whole countryside from location S1 to location S2.
+
+It is clear that location S2 located in town centre without traffic zone, which surrounded by housing area. Whereas location S1 out of housing area, which far away from location S2. Location S2 have 12 and 16 kilometer road distance to Hindon and Bransdon, which have 10,000 and 15,000 population respectively. By contrast, location S2 have 25 kilometer road distance to Cransdon which have 29,000 population, as the most population place among the adjacent towns. However, Garlsdon's population also more than summary of these three adjacent towns' population.
+
+### After(claude, band 7)
+
+The map presents two potential locations for a new supermarket in Garlsdon, a town with a population of 65,000. The town has two industrial areas, one to the north and one to the south of the residential area, with the town center situated between them. A railway line runs through the countryside from location S1 to location S2.
+
+It is evident that location S2 is situated in the town center, outside the traffic zone and surrounded by residential areas. In contrast, location S1 is outside the residential area and farther away from location S2. Location S2 is 12 kilometers and 16 kilometers away from Hindon and Bransdon, which have populations of 10,000 and 15,000 respectively. By contrast, location S2 is 25 kilometers away from Cransdon, which has a population of 29,000, the largest among the adjacent towns. However, Garlsdon's population is greater than the combined population of these three adjacent towns.
+
 ## Average house prices in five cities
 
 ### Before(me, band 6)
