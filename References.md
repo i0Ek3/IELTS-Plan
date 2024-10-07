@@ -1,6 +1,7 @@
 ## References
 
-- [【小红书】Oscar大白](https://www.xiaohongshu.com/user/profile/65d4bec0000000000401d507)
+- [小红书 | 迷胡去会阅读](https://www.xiaohongshu.com/user/profile/59468efb50c4b43f82f05750)
+- [小红书 | Oscar大白](https://www.xiaohongshu.com/user/profile/65d4bec0000000000401d507)
 - [EthanLin 雅思备考](https://ethan-lin.gitbook.io/ielts)
 - [雅思听力6分到9分的逆袭秘密（非报班自学）](https://zhuanlan.zhihu.com/p/78435216)
 - [2个月自学雅思总分6-7](https://github.com/SUSTech-Application/SUSTechapplication/blob/master/docs/英语学习/IELTS/2个月自学雅思总分6-7.md)

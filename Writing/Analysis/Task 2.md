@@ -12,6 +12,39 @@ P3：陈述自己的观点（或者反向说明）+具体原因+举例说明
 
 P4：总结：说明讨论的点，重申观点
 
+## Teenagers should be required to do unpaid work to community?
+
+青少年不应该无薪为社区工作。
+
+论点1：青少年的主要任务应该是继续完成学业，而不是花更多的时间在社区工作。等他们毕业了，有的是时间工作，现在就把中心放到工作上，会让他们日后的可选择性大大降低。想象一下，一个高中没有毕业的学生，在社会上会找到一个什么样的工作，从而能够养家糊口呢？
+
+论点2：青少年如果免费为社区工作，会滋生一些不必要的资源浪费。那些雇主可能会不珍惜这样的资源，反而存在白嫖行为。另一方面，青少年既无法很好的锻炼技能，也无法更好得到应有的报酬，会让他们对这样的工作产生落差，从而影响日后的工作。
+
+### Before(me, band 7)
+
+> 1. **任务回应情况（Task Response）**: The essay addresses the prompt, but the argument could be developed further with more specific examples or evidence. **评分：7**
+> 2. **连贯与衔接（Coherence and Cohesion）**: The essay has a clear structure, but the transitions between ideas could be smoother. **评分：7**
+> 3. **词汇丰富程度（Lexical Resource）**: The vocabulary is adequate, but a wider range of synonyms and less common phrases would boost your score. **评分：7**
+> 4. **语法多样性及准确性（Grammatical Range and Accuracy）**: There are several grammatical errors and awkward phrases that need to be corrected. **评分：6**
+
+There is an ongoing debate whether teenagers should be required to do some unpaid work to commuity. However, I do not think that unpaid work to community can bring more benefit for teenagers.
+
+Firstly, finishing study is a mainly task for teenagers instead of pay more attention on community unpaid work. After they are graduated from high school, there are more choices for them to take works. If they are turned core into work, there would be less possibilities for work selection in the future. By doing this, one is not graduated from high school without any skills and knowledge, what job would they get easily and hold family well-lived?
+
+Secondly, there would be more resources wasted by teenages doing unpaid work to community. It is obvious that employers cannot perish these resources which are free for them. Moreover, the employer will do something bad on these teenagers, for example, let them work overtime or do something which are they should not do. On the other hand, unpaid work make teenagers feel utilized by these people and they cannot get positive feedback, and cannot learn any useful skills. In fact, all of these behaviour will take neagtive impact to them when they need to decide which work they are really like and dive into.
+
+In conclusion, I do not think that teenagers do these unpaid work to community can bring positive impact. By contrast, I do think that teenagers should finish their study work first.
+
+### After(kimi, band 8.5)
+
+There is an ongoing debate about whether teenagers should be required to participate in unpaid community service. However, I believe that mandatory unpaid work may not be the most beneficial use of a teenager's time.
+
+Firstly, the primary task for teenagers should be to focus on their studies rather than diverting their attention to unpaid community work. Once they graduate from high school, they will have a wider array of career options available to them. If they become too focused on work, there may be fewer opportunities for them to explore different career paths in the future. Without a high school diploma and marketable skills, what kind of job would they easily obtain and how could they hope to support themselves and their families?
+
+Secondly, there is a potential waste of resources when teenagers engage in unpaid work. It is clear that employers might not value or manage resources as carefully when the labor is provided for free. Furthermore, employers might exploit these young workers, for instance, by making them work overtime or assigning them tasks that are inappropriate or unsafe. On the other hand, unpaid work might lead teenagers to feel undervalued and exploited, without receiving positive feedback or learning useful skills. In fact, these negative experiences could have a detrimental impact on their future career choices and work ethic.
+
+In conclusion, I do not believe that mandatory unpaid community work would have a positive impact on teenagers. On the contrary, I think teenagers should prioritize their education first.
+
 ## Government should give finnancial support to creative artists?
 
 论点1：应该。但是资助不是无条件的，可以通过评估其作品质量进行资助，以激励他们更好地发挥才能，为这个社会的文化艺术气息增添光彩。同时应无条件为那些较为穷困且有艺术追求的艺术家进行资助，以帮助他们更好地度过困难时期。
@@ -76,7 +109,7 @@ On the other hand, animal testing should be banned under the moral framework and
 
 In conclusion, I do not believe that banning animal testing would address the fundamental issues our species faces in the long term. Instead, we should seek alternatives while recognizing the necessity in specific, limited situations.
 
-## It is generally believed that some people are born with certain talents, for instance for sport or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician.
+## Born with certain talents or can be taught?
 
 ### Before(me, band 6)
 
