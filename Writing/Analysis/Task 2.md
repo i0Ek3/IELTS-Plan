@@ -12,6 +12,39 @@ P3：陈述自己的观点（或者反向说明）+具体原因+举例说明
 
 P4：总结：说明讨论的点，重申观点
 
+## Why do we need music? Is the traditional music more important than the international music?
+
+为什么重要：1 音乐是一种文化输出，是链接世界各地人民的桥梁。通过音乐，大家可以互相学习了解各自的文化。2 音乐是日常生活的投影，更是我们生活中的灵感体现。你可以在音乐中听到关于生活的细节，还能听到歌手对生活的态度。3 音乐是传达信息的一种工具和载体，是我们表达想法的途径。同时音乐也是我们放松的方式，对我们的负面情绪有积极的作用。
+
+传统音乐是否更重要：首先我并不认为传统音乐比国际音乐就更重要，反之亦然。音乐不分国界，更不分流派重要性。无论是传统音乐还是国际音乐，都有其不可替代的一面。传统音乐作为一个国家的传统文化的积淀，保留了历史进程中的文化信息，有着积极推进文化潮流的作用，我们应时刻牢记。如我们的国歌，它就记录了我们国家艰难成立的过程，有着警示作用。而国际音乐是更为先进、潮流的体现，尤其是年轻一代的精神支柱，为这个世界带来更多的可能性。如欧美歌手 Adele 的音乐，她的音乐真的可以治愈人们的心灵。因此，两种类型的音乐都很重要。
+
+### Before(me, band 7.5)
+
+> ### 评分：
+>
+> 1. **任务回应情况（Task Response）**: The essay addresses the prompt effectively and provides a balanced view of traditional and international music. **评分：8**
+> 2. **连贯与衔接（Coherence and Cohesion）**: The essay has a clear structure, but the transitions between ideas could be smoother. **评分：7**
+> 3. **词汇丰富程度（Lexical Resource）**: The vocabulary is adequate, but a wider range of synonyms and less common phrases would boost your score. **评分：7**
+> 4. **语法多样性及准确性（Grammatical Range and Accuracy）**: There are several grammatical errors and awkward phrases that need to be corrected. **评分：7**
+
+There are many types of music in these world, which are intergrated people's intellegent and emotion. Morever, music play an significant role in our human beings' life. And I truely think that there are equal importance between traditional music and international music.
+
+As a kind of cultural output, music linked people among the world. Through the music, people can learning different cultures from all over the world. Music also are projection of our daily life, and as a spiratual guide too. You can find more details and atitudes of singers' life through the music, you can feel the air in that moment. At the same time, music is a tool and a carrier to convey information, which also is an approach to express our thought. Of course, music is a relaxation way which is helpful to dimish our negative moods.
+
+On the other hand, I do not think that the traditional music more important than the international music, versa vice. Firstly, there is no country boundries among the music, neither music genre. In fact, there are unplaceable aspects between the traditional music and the international music. Traditional music as a sediment of one country's traditional culture which preserves the primary information in its historical process, and it can propel the cultural style to a new milestone which we should memorize it forever. Our national song, for example, it recorded the built up process of our country, which have alert feature. Whereas the international music, which intergrated more advanced and fashionable style and bring this world more possibilities, as a spirit backup to our young people. Such as Adele's music, her music really touching people's inner world.   
+
+In conclusion, music have significant effects to our life, and I do not think that the traditional music take more importance to the international music. On the contary, they are equal importance to our life.
+
+### After(kimi, band 9)
+
+There are myriad types of music in this world, which integrate people's intelligence and emotions. Moreover, music plays a significant role in human life. I firmly believe that there is equal importance between traditional music and international music.
+
+As a form of cultural expression, music connects people across the globe. Through music, we can learn about different cultures from around the world. Music also reflects our daily lives and serves as a spiritual guide. You can discover more details and attitudes about the singers' lives through their music, feeling the atmosphere of the times in which they were created. At the same time, music is a tool and a carrier to convey information, and it is also a means to express our thoughts. Of course, music is also a relaxing way to help diminish our negative moods.
+
+On the other hand, I do not think that traditional music is more important than international music, nor vice versa. There are no national boundaries in music, nor are there strict genre boundaries. In fact, there are innumerable aspects that bridge the gap between traditional music and international music. Traditional music, as a sediment of a country's cultural heritage, preserves the essence of its history, and it can propel cultural styles to new heights, which we should remember forever. Our national anthems, for example, record the historical development of our countries and have an alert feature. In contrast, international music, which integrates more advanced and fashionable styles, brings more possibilities to the world, providing spiritual support to our youth. Adele's music, for instance, truly touches people's inner worlds.
+
+In conclusion, music has significant effects on our lives, and I do not believe that traditional music holds more importance than international music. On the contrary, they are equally important to our lives.
+
 ## Teenagers should be required to do unpaid work to community?
 
 青少年不应该无薪为社区工作。
