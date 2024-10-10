@@ -1,20 +1,34 @@
-# Speaking Topics
+# Topics With My Own Story
 
-## 如何回答？
+## Conjunctions
 
-对题目进行重述或者简要回答，说明你回答的依据，具体举例说明。
+What if | See | Right | And then | Well | Ok | So | You know | case to case | I mean | Actually
 
-P1 2-3 句即可；P2 需要长一些，使用 5W1H 方法大概回答 2-3 分钟左右；P3 3-4 即可。
+## Template 1: Do you like sth.
 
-## 问题形式
+### First Sentence
 
-除 P2 需要整段对给定题干进行介绍外，P1 和 P3 的问法基本一致，其中 P1 更加基本一些。
+I’m really into something like...
 
-你只需要关注，对于某个主题，你是否喜欢或者不喜欢，你怎么看，你是否拥有，针对某个观点你会怎么做等等。
+I really enjoyed...
 
-本质上还是要求你能连续且顺畅的进行沟通。
+### Second Sentence
+
+Such as ... and ...
+
+For example, ... and...
+
+### Last Sentence
+
+I think that...
 
 ## Topics
+
+### Movie/Film
+
+我很享受电影背景音乐的恢弘与震撼，让我感觉身临其境。比如我很喜欢看类似变形金刚和沙丘之类的电影。
+
+I really enjoyed the grandeur and vibrancy of the movie's soundtrack, which made me feel like I was there. For example, I enjoy watching movies like Transformers and Dune.
 
 ### Shopping mall
 
@@ -53,4 +67,3 @@ It is a complex that combines entertainment facilities, restaurants, and retail,
 ### Bikes
 
 小时候有一个自行车，因为住的地方距离学校较远，所以母亲给我买了一辆，而且自行车可以大大缩短上下学用时。其次，自行车相较其他交通工具也更加的方便。
-
