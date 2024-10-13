@@ -12,6 +12,51 @@ P3：陈述自己的观点（或者反向说明）+具体原因+举例说明
 
 P4：总结：说明讨论的点，重申观点
 
+## Should we only concerned our own country?
+
+论点1：远水解不了近渴，我们应该更多的关注和维护我们周围的社区。个人的力量是渺小的，尤其是对于国际来说。但是我们可以关注发生在我们周围的事情。比如，在社区医院做志愿者，帮助护士更好的照顾需要照看的病人。在社区服务站，为老年人提供问答帮助。这些行为不但可以提高社区的影响力，也可以为社会做出贡献，合理分配资源。
+
+论点2：如果眼前有需要帮助的人或事，我们却没有伸出援助之手，反而去帮助其他国家需要帮助的人，虽然帮助本身没有对错，但是有点本末倒置了。世界上有很多需要帮助的地区和人，如何划分优先级以及如何分配应急资源，这都是一个较大的挑战。如果没有全面考虑本国的情况，不切实际的面对问题，这本身是不理智的。
+
+### Before(me, band )
+
+> ### 评分：
+>
+> 1. **任务回应情况（Task Response）**：文章回应了题目的要求，讨论了是否应该更多关注本地社区和国家的问题，并给出了个人观点和理由。但文章在展开论点时不够充分，缺乏具体的例子和细节。**评分：6**
+> 2. **连贯与衔接（Coherence and Cohesion）**：文章的组织结构基本清晰，但段落之间的衔接不够流畅，需要更多的连接词来增强连贯性。**评分：6**
+> 3. **词汇丰富程度（Lexical Resource）**：词汇使用有一定的多样性，但有一些拼写错误和不准确的词汇使用，需要修正。**评分：6**
+> 4. **语法多样性及准确性（Grammatical Range and Accuracy）**：语法结构基本准确，但有一些语法错误和不准确的表达方式，需要修正。**评分：6**
+
+There is an ongoing debate about whether people should only be concerned with our own communities and countries. In fact, I am firmly believe that we should pay more attention on our surrounding situations with higher priorities, insteading pay more attention on others with unintenlegence.
+
+There is an adage about far away water cannot solve present thirsty, which means we should pay more attention on and mainten our communities. The truth is that personal power the far away lower than countries, in particular to the international. However, we can take some measures to overcome the issues our communities faced presently. For example, people can do some convenient stuffs to take care needed people as vounlteer, and young people can offer some question-answer helps for elderly. By doing this, which can promote the positive effect to this society, and also save our social resources.
+
+On the contary, if we ignorance the needed stuffs and people from nearly, but give a favor to those country who need help, even though itself was not false, it reversed primary and second too much. There are many countries and people need help on this world, it still is a tremendous challenge on how to divide priority and distribute resource. By disconsidering this fully, it is an unrealistic.
+
+In conclusion, I do believe that we should pay more attention on our own communities instead ignore realistic problems to help others.     
+
+### After(kimi, band 8)
+
+There is an ongoing debate about whether people should focus solely on their own communities and countries. In my opinion, we should prioritize our immediate surroundings and give them more attention than distant issues, which may not be within our sphere of influence.
+
+There is an adage that states, "Far away water cannot quench near thirst," implying that we should prioritize our local communities. The truth is that the impact of individual efforts is more significant within one's own country, particularly in the international context. However, we can take measures to address the issues our communities face. For example, people can engage in simple acts of kindness to support those in need, such as volunteering, and young individuals can offer assistance to the elderly by answering questions and providing companionship. These actions promote a positive effect on society and conserve social resources.
+
+Conversely, neglecting the immediate needs and focusing on distant countries, even with good intentions, can lead to a reversal of priorities. There are numerous countries and people in need globally, and determining how to allocate resources is a significant challenge. Ignoring this reality is unrealistic.
+
+In conclusion, I believe that we should concentrate on our own communities and not ignore pressing local issues in favor of assisting others who are beyond our immediate reach.
+
+## Reasons and measures of average life increasing.
+
+### After(kimi, band 9)
+
+The average human lifespan has been on the rise, a trend that has profound implications for both individuals and society at large. I firmly believe that there are some measures to address the challenges posed by an aging population.
+
+The primary reasons for the increase in average lifespan can be attributed to advancements in medical technology and improved healthcare systems. For individuals, a longer lifespan presents challenges such as the need for longer-term financial planning for retirement and the potential for increased health issues in old age. The psychological impact of living longer should not be overlooked, as individuals may experience a sense of purposelessness or anxiety about the future. Societally, the increase in average lifespan has led to an aging population, which puts pressure on social security systems and healthcare resources. The workforce may also be affected, as an aging population could lead to a shrinking labor force and increased dependency ratios. This demographic shift necessitates a reevaluation of retirement policies and healthcare provisions.
+
+To address these challenges, governments and societies must take proactive measures. This includes reforming pension systems to ensure sustainability, investing in healthcare infrastructure to accommodate the needs of an aging population, and promoting active aging through community programs and lifelong learning opportunities. Encouraging healthy lifestyles and preventive healthcare can also reduce the burden of chronic diseases. Additionally, fostering intergenerational cooperation and valuing the contributions of older adults can help create a more inclusive and supportive society.
+
+In conclusion, the increase in average lifespan is a testament to human progress, but it also presents significant challenges. 
+
 ## Video games are as a good or bad tools?
 
 我并不认为游戏的弊端大于好处，相反我认为游戏的好处大于其弊端。
@@ -20,14 +65,7 @@ P4：总结：说明讨论的点，重申观点
 
 论点2：游戏有助于开发人类大脑功能。大部分游戏是需要脑力运算的，这就需要玩家根据对应的游戏场景调动脑功能来想出对应的策略来完成游戏任务。那些高难度的关卡需要玩家集中精力且想出更加可行的办法才能通关，这对大脑的开发大有裨益。比如那些策略类游戏，我需要思考在哪里建造城堡以及护城河，如何抵御外敌入侵，这些都需要大脑思考的。
 
-### Before(me, band 7.5)
-
-> ### 评分：
->
-> 1. **任务回应情况（Task Response）**: The essay addresses the prompt effectively, providing a clear position on the benefits of video games. **评分：8**
-> 2. **连贯与衔接（Coherence and Cohesion）**: The essay has a clear structure, but the transitions between ideas could be smoother. **评分：7**
-> 3. **词汇丰富程度（Lexical Resource）**: The vocabulary is adequate, but a wider range of synonyms and less common phrases would boost your score. **评分：7**
-> 4. **语法多样性及准确性（Grammatical Range and Accuracy）**: There are several grammatical errors and awkward phrases that need to be corrected. **评分：7**
+### Before(me, band 5.5)
 
 There is an ongoing debate on whether video games play a positive role or a negative role in nowadays. In my opinion, the benefits of video games are more important than the drwabacks.
 
@@ -37,7 +75,7 @@ On the other hand, video games are helpful to develop our brain functions. There
 
 In conclusion, video games are helpful to our moods and brain function developing, and I do not think that the drawbacks of video games outweight the benefits.
 
-###  After(kimi, band 9)
+###  After(kimi, band 7)
 
 There is an ongoing debate about whether video games play a positive or negative role in modern society. In my opinion, the benefits of video games outweigh the drawbacks.
 
@@ -53,14 +91,7 @@ In conclusion, video games are beneficial to our moods and the development of br
 
 传统音乐是否更重要：首先我并不认为传统音乐比国际音乐就更重要，反之亦然。音乐不分国界，更不分流派重要性。无论是传统音乐还是国际音乐，都有其不可替代的一面。传统音乐作为一个国家的传统文化的积淀，保留了历史进程中的文化信息，有着积极推进文化潮流的作用，我们应时刻牢记。如我们的国歌，它就记录了我们国家艰难成立的过程，有着警示作用。而国际音乐是更为先进、潮流的体现，尤其是年轻一代的精神支柱，为这个世界带来更多的可能性。如欧美歌手 Adele 的音乐，她的音乐真的可以治愈人们的心灵。因此，两种类型的音乐都很重要。
 
-### Before(me, band 7.5)
-
-> ### 评分：
->
-> 1. **任务回应情况（Task Response）**: The essay addresses the prompt effectively and provides a balanced view of traditional and international music. **评分：8**
-> 2. **连贯与衔接（Coherence and Cohesion）**: The essay has a clear structure, but the transitions between ideas could be smoother. **评分：7**
-> 3. **词汇丰富程度（Lexical Resource）**: The vocabulary is adequate, but a wider range of synonyms and less common phrases would boost your score. **评分：7**
-> 4. **语法多样性及准确性（Grammatical Range and Accuracy）**: There are several grammatical errors and awkward phrases that need to be corrected. **评分：7**
+### Before(me, band 5.5)
 
 There are many types of music in these world, which are intergrated people's intellegent and emotion. Morever, music play an significant role in our human beings' life. And I truely think that there are equal importance between traditional music and international music.
 
@@ -70,7 +101,7 @@ On the other hand, I do not think that the traditional music more important than
 
 In conclusion, music have significant effects to our life, and I do not think that the traditional music take more importance to the international music. On the contary, they are equal importance to our life.
 
-### After(kimi, band 9)
+### After(kimi, band 7)
 
 There are myriad types of music in this world, which integrate people's intelligence and emotions. Moreover, music plays a significant role in human life. I firmly believe that there is equal importance between traditional music and international music.
 
@@ -88,12 +119,7 @@ In conclusion, music has significant effects on our lives, and I do not believe 
 
 论点2：青少年如果免费为社区工作，会滋生一些不必要的资源浪费。那些雇主可能会不珍惜这样的资源，反而存在白嫖行为。另一方面，青少年既无法很好的锻炼技能，也无法更好得到应有的报酬，会让他们对这样的工作产生落差，从而影响日后的工作。
 
-### Before(me, band 7)
-
-> 1. **任务回应情况（Task Response）**: The essay addresses the prompt, but the argument could be developed further with more specific examples or evidence. **评分：7**
-> 2. **连贯与衔接（Coherence and Cohesion）**: The essay has a clear structure, but the transitions between ideas could be smoother. **评分：7**
-> 3. **词汇丰富程度（Lexical Resource）**: The vocabulary is adequate, but a wider range of synonyms and less common phrases would boost your score. **评分：7**
-> 4. **语法多样性及准确性（Grammatical Range and Accuracy）**: There are several grammatical errors and awkward phrases that need to be corrected. **评分：6**
+### Before(me, band 6)
 
 There is an ongoing debate whether teenagers should be required to do some unpaid work to commuity. However, I do not think that unpaid work to community can bring more benefit for teenagers.
 
@@ -103,7 +129,7 @@ Secondly, there would be more resources wasted by teenages doing unpaid work to 
 
 In conclusion, I do not think that teenagers do these unpaid work to community can bring positive impact. By contrast, I do think that teenagers should finish their study work first.
 
-### After(kimi, band 8.5)
+### After(kimi, band 7)
 
 There is an ongoing debate about whether teenagers should be required to participate in unpaid community service. However, I believe that mandatory unpaid work may not be the most beneficial use of a teenager's time.
 

@@ -1,6 +1,28 @@
 # Task 1
 
-## Map
+## Map-2
+
+### Before(me, band 6)
+
+The map shows the trend of expand and construct of village which was named Chorleywood from 1868 to 1994.
+
+It is clear that there is a land expansion and transport facilities increasing in this village. With different peroids of development are shown on the map, the land and transport facilities are both increasing gradually, which can see main roads, motorway and railway were built and intersection with each other.
+
+From 1868 to 1883, there only are small pices of land where near the main roads, and also Chorleywood Park and Golf course located in middle of this village. Between 1883 and 1922, land expansion to the south. At the same time, railway was built in 1909, which expand from  the west to east, and Chorleywood Station was built near the this railway.
+
+In the next over 24 years, the expansion of Chorleywood village continued to the east and west, which alongside the railway. Until 1970, the motorway line was built, which across the one of main road and railway. In this peroid, more lands were constructed from the north to the south, and these places are all near the main roads, motorway and railway.
+
+### After(kimi, band 7)
+
+The map illustrates the expansion and development of Chorleywood village from 1868 to 1994.
+
+It is evident that there was a gradual increase in land area and a rise in transport infrastructure during this period. The development can be seen through the construction of main roads, a motorway, and a railway, which intersect with each other.
+
+From 1868 to 1883, the village consisted of small plots of land near the main roads, with Chorleywood Park and Golf Course located at the center. Between 1883 and 1922, the land expanded to the south. Concurrently, a railway was constructed in 1909, stretching from west to east, with Chorleywood Station built near this line.
+
+Over the next 24 years, Chorleywood's expansion continued eastward and westward, alongside the railway. By 1970, a motorway was built, crossing one of the main roads and the railway. During this period, further land development occurred from the north to the south, with new areas being situated near the main roads, the motorway, and the railway.
+
+## Map-1
 
 ### Before(me, band 6)
 
