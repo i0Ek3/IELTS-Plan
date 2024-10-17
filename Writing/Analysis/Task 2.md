@@ -12,6 +12,32 @@ P3：陈述自己的观点（或者反向说明）+具体原因+举例说明
 
 P4：总结：说明讨论的点，重申观点
 
+## Hobbies need to be difficult to be enjoyable?
+
+不一定。论点1：兴趣爱好就是自己喜欢愿意去做的事情，无关难度。比如很多人爱看网络视频，这个行为几乎不需要任何的准备，只要你有充足的时间就可以进行。先不管视频的内容质量如何，如果看视频本身让你是愉悦的，那么这就是你的兴趣爱好。它就是那么的简单，以至于任何人都可以尝试。比如，在公共交通随处可见人们在刷各种各样的网络视频，或低头闷笑或放声大笑，至少带给了他们欢乐。
+
+论点2：如果兴趣过于简单，会让人们觉着没有挑战性，很快便失去兴趣，不利于兴趣的发展。因此，还是有难度且挺有挑战性的兴趣爱好才会更让人感到愉悦。比如，书法练习，是一个需要长时间积累基本功的一项爱好。如果随便写写就达到了不错的成绩，那么很多人并不会继续练习书法了。相反，正是因为书法很难，需要好几年甚至一辈子的时间去联系，你才能看出你的功底。只有当你真正意识到自己还需要前进，你才能感受到真正的喜悦。
+
+### Before
+
+Many people believe that the hobbies should be difficult to be enjoyable, while others totally have different thoughts. In my opinion, not easy hobbies only can be enjoyable but the difficult one also can be.
+
+On the one hand, hobbies are those thing which belong what you want and like to do, as you can only consider enjoyable instead of difficult, which means such things you should not do any preparetion only you have enough time. For example, many people like watch internet videos on popular platforms while they are taking public transport, despite of the quality of these videos, video itself make people feel comfortable and relax, that is hobbie, which is easy thing for everyone.
+
+On the other hand, I firmly believe that the difficult hobbies also can make people enjoyable. If the hobbies are easy to get and then people dislike it as soon as possible. Calligraphy, for instance, which is need hard effort to practice years over the years. If someone get this talent easily, they may do not think calligraphy itself is a enjoyable thing and do not continue practice it. On the contary, calligraphy is hard, provided practice with hard effort, you may see the result, which is real enjoyable.
+
+In conclusion, for different people, I believe that there are different ways to get enjoyable from hobbies whatever itself is easy or difficult.
+
+### After
+
+There is an ongoing debate about whether hobbies should be challenging to be enjoyable, with a divide in opinions. In my opinion, both easy and difficult hobbies can be sources of enjoyment.
+
+On one hand, hobbies are activities that one is naturally inclined towards and enjoys, regardless of their difficulty. These activities require no extensive preparation and can be pursued in one's leisure time. For instance, many people enjoy watching videos on popular platforms during their commute. Regardless of the videos' quality, the act of watching them provides comfort and relaxation, making it a hobby that is easy and accessible to everyone.
+
+On the other hand, I firmly believe that challenging hobbies can also be highly enjoyable. If a hobby is too easy, people might quickly lose interest. Take calligraphy, for example, which requires dedicated practice over many years. If someone were to master calligraphy effortlessly, they might not appreciate it as an enjoyable pursuit and would likely discontinue practicing it. Conversely, the difficulty of calligraphy, when met with diligent practice, can lead to rewarding results, which are truly enjoyable.
+
+In conclusion, for different people, the enjoyment derived from hobbies can come from either easy or difficult activities. It's the personal engagement and satisfaction that make a hobby enjoyable, regardless of the level of challenge it presents.
+
 ## Should we only concerned our own country?
 
 论点1：远水解不了近渴，我们应该更多的关注和维护我们周围的社区。个人的力量是渺小的，尤其是对于国际来说。但是我们可以关注发生在我们周围的事情。比如，在社区医院做志愿者，帮助护士更好的照顾需要照看的病人。在社区服务站，为老年人提供问答帮助。这些行为不但可以提高社区的影响力，也可以为社会做出贡献，合理分配资源。

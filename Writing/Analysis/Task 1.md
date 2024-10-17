@@ -1,5 +1,25 @@
 # Task 1
 
+## House design in different climate
+
+### Before(me, band 6)
+
+The diagrams illustrate the difference between the different climate.
+
+The obvious difference between these two houses for cool and warm climates is in the shape of the roof. And there also is a differ with windows and insulation design.
+
+We can see that the cool climate house has a high-angled roof, allowing sunlight to enter through the window. By contrast, the roof of the warm climate house has a peak in the middle and roof overhangs to shade the windows. Also we can see that the insulation and thermal building materials are used in cool climates house to prevent heat loss, whereas insulation and reflective materials are used to keep the heat out in warm climates.
+
+Finally, the cool climate house has one window which faces the direction of the sun, while the warm climate house has windows on two sides which are shaded from the sun. By opening the two windows at night, ventilating can be relized for warm climates house.
+
+### After(kimi, band 7)
+
+The diagrams illustrate the differences in house design between climates that are cool and those that are warm.
+
+A striking difference between the two houses is the roof shape. The house designed for a cool climate features a high-angled roof, which allows sunlight to enter through the windows. In contrast, the house for a warm climate has a roof with a central peak and overhangs that provide shade to the windows. Additionally, the house in a cool climate utilizes insulation and thermal building materials to prevent heat loss, while the house in a warm climate uses insulation and reflective materials to keep the heat out.
+
+Furthermore, the house in a cool climate is designed with windows facing the direction of the sun, optimizing natural light and warmth. Conversely, the warm climate house has windows on two sides, which are strategically shaded from the sun. By opening these windows at night, the house can be ventilated, providing a cooling effect.
+
 ## Map-2
 
 ### Before(me, band 6)
