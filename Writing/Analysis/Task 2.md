@@ -12,6 +12,44 @@ P3：陈述自己的观点（或者反向说明）+具体原因+举例说明
 
 P4：总结：说明讨论的点，重申观点
 
+## How does technology affect people's daily communication?
+
+分论点1：科技对工作沟通和日常学习产生了巨大的影响。
+
+支持句1（解释分论点）：现在的工作和日常学习，只需要人们在屏幕上点点划划即可完成，与早些年只能面对面的方式大相径庭。
+
+支持句2（对分论点进行举例）：比如同在一家公司上班的同事，但是分布在不同的办公区，每次工作沟通都是使用内部软件进行视频或者语音沟通，有啥问题随时就可以开始一个会议进行沟通，非常的方便。
+
+支持句3（对分论点进行细节描述，可使用因果对比等手法）：相反，如果是早些年面对面沟通的方式，这不仅浪费了时间，还增加了沟通成本。
+
+分论点2：科技在这些方面产生的影响是积极的。
+
+支持句1（解释分论点）：这些新鲜的事物提升了人们的工作效率，使得人们不得不珍惜时间。
+
+支持句2（对分论点进行举例）：比如针对某个方案进行的会议，人们会对自己的提问进行精准描述，以减少重复沟通的成本，同时也会严格控制会议的时间，减少不必要的信息传达。
+
+支持句3（对分论点进行细节描述，可使用因果对比等手法）：如果没有这样的高效会议（或者每次都是冗余会议），就不会有确定性的结论以及更快进入下一阶段的可能。
+
+### Before(me, band 5.5 by Claude)
+
+It is exactly that technology changed our life with an unseen and effective way, which accelerate the process of communication and simplify the useless steps. In my opinion, technology is play a significant role in our daily life.
+
+Technology construct strong connections between work communication and daily learning. Nowadays, there is an extreme difference between people only need click screen to finish things and people only involve face-to-face procedures. For example, even though same company have different work places where people work to. Every work time communication between workmates are using internal communication tools by video-call or vioce-call, which is really convenient and easily to communicate with each other. By contrast, if we take face-to-face way to communicate with each other, wasting time and increasing cost are innevtablely.
+
+Technology is play a positive role to work life and daily life. As new fresh things, technology had promoted work efficient of people who always use much time to communicate with others, which means that people have to save time while technology count on. For instance, people will refine their problems accurately when they are meeting, which can be reduce the cost of repeatable communications. At the same time, they will controll the meeting time to reduce unnecessary messages conveying. Without such efficient conference, there would not be a certainly result will going to next stage.
+
+In conclusion, technoloy give us a noval and brand-new style to enjoy work and daily life, which is play a positive role on those affects.
+
+### After(kimi, band 7.5 by Claude)
+
+It is undeniable that technology has transformed our lives in unprecedented and effective ways, accelerating communication processes and simplifying previously cumbersome steps. In my opinion, technology plays a significant role in our daily lives.
+
+Technology has forged strong connections between work communication and daily learning. There is a stark contrast between the current ease of clicking a screen to accomplish tasks and the traditional reliance on face-to-face procedures. For instance, within the same company, different work locations are no longer a barrier to effective collaboration. Colleagues use internal communication tools for video or voice calls during work hours, which is incredibly convenient and facilitates easy communication. In contrast, face-to-face communication inevitably leads to wasted time and increased costs.
+
+Technology plays a positive role in both work life and daily routines. As a relatively new phenomenon, technology has enhanced the efficiency of work, particularly for those who previously spent considerable time on communication. This means that people can save time as technology takes over. For example, individuals tend to articulate their issues more precisely during meetings, reducing the need for repetitive communications and associated costs. Concurrently, they manage meeting durations to minimize the conveyance of unnecessary messages. Without such efficient conferences, there would be no certainty of progressing to the next stage.
+
+In conclusion, technology has introduced a novel and refreshing approach to enjoying work and daily life, playing a positive role in these areas. It has undoubtedly revolutionized the way we communicate and interact, making our lives more efficient and connected.
+
 ## Hobbies need to be difficult to be enjoyable?
 
 不一定。论点1：兴趣爱好就是自己喜欢愿意去做的事情，无关难度。比如很多人爱看网络视频，这个行为几乎不需要任何的准备，只要你有充足的时间就可以进行。先不管视频的内容质量如何，如果看视频本身让你是愉悦的，那么这就是你的兴趣爱好。它就是那么的简单，以至于任何人都可以尝试。比如，在公共交通随处可见人们在刷各种各样的网络视频，或低头闷笑或放声大笑，至少带给了他们欢乐。
