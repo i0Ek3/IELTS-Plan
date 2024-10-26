@@ -178,15 +178,31 @@ only 一般是该题选 False 的标志词，但是考生一定要注意 only �
 
 ## C10-T1-P1
 
+5/5.
+
 ## C10-T1-P2
+
+5/5.
 
 ## C10-T1-P3
 
+5/5.
+
 ## C10-T2-P1
+
+6/6.
 
 ## C10-T2-P2
 
+无该题型。
+
 ## C10-T2-P3
+
+3/5.
+
+37 题没找到定位句，实际定位句在第 10 段中，Consequently, the dominant critical approach becomes that of the art historian, a specialised academic approach devoted to 'discovering the meaning' of art within the cultural context of is time... This is in perfect harmony with the museum's function，而我根本没有看第 10 段，所以我选了 NG。但是定位居中说到了 harmony，与题干中的 conflicts 不符，因此为 No。
+
+39 题直接选的，没有看原文。利用之前提到的 tips，如果题干中出现 only，多半选 False/No，如果题干中有大写，则这个 tip 失效，需要判断是否为 NG。但是题干中并没有出现大写，所以我选了 No，而实际为 NG，因为原文中并未提到是否售卖的问题。
 
 ## C10-T3-P1
 
