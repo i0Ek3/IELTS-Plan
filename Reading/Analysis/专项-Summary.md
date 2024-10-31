@@ -238,32 +238,162 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 
 ## C10-T3-P3
 
+1/5.
+
+答案不一定在定位句中，有时需要往前或者往后读几句。
+
+27 的定位句很简单，但是题干要求的是废弃的一个地方，因此需要继续往后读，会看到 derelict plantation，因此答案为 plantation。但是我并不认识 derelict，所以这题我选的是 habour。
+
+28 题我选的 plantation，因为我就在定位句里去找了，而正确答案是在第一段的第一句，即 archaeological discovery。
+
+30 和 31 写反了。定位句中说的是找到了 burial urn 后面又说人类的残骸也被封在其中。但 30 和 31 是两个部分，不能混为一谈，因此 31 问题是什么属于 Lapita，正确答案是 human remains，即选项中的 bones，而 30 是 burial urn。
+
+- derelict 废弃的，荒废的
+
 ## C10-T4-P1
+
+4/6.
+
+第 4 题的题干没理解是啥意思，刷子能扮成什么？实际上是 brush 的熟词僻义了，brush 还有灌木丛的意思。题干是问灌木丛还扮演了什么角色？根据定位句 The unintentional consequence has been to halt the natural eradication of underbrush, now the primary fuel for megafires，可知答案为 fuel。
+
+第 6 题实在是大意了，题干和定位句就是同义替换，结果我写的是 wooded areas，实际答案为 homes。
+
+- menace 威胁；危险的人
+- erratically 不规则地；不稳定地
 
 ## C10-T4-P2
 
+4/5.
+
+第 14 题找到了定位句，但是读起来比较费劲，没有分清楚句子成分，导致回答错误，实际题干的 personality 是定位句中 character 的同义词。根据定位句的成分，描述的是 transformation 是不可能的，可知 14 题填这个。
+
 ## C10-T4-P3
+
+无此题型。
 
 ## C11-T1-P1
 
+7/7.
+
+- non­edible = inedible 不可食用的
+- detrimental 有害的；不利的
+
 ## C11-T1-P2
+
+无此题型。
 
 ## C11-T1-P3
 
+5/7.
+
+30 题应该填入 form 后面的名词，但是需要注意插入语，从而锁定答案到后面的 sunshade。
+
+36 题找错了定位句，实际定位句是 D 段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists，我找的是 F 段了，错的有点离谱。
+
+- iodide 碘化物
+
 ## C11-T2-P1
+
+无此题型。
 
 ## C11-T2-P2
 
+4/4.
+
+- scrawny 干瘦的；骨瘦如柴的
+- toppling 推翻；颠覆
+
 ## C11-T2-P3
+
+1/3.
+
+32 题找到了定位句的 a key level of detail，我找的是 detail 的同义词，因此选了 A interpretation。但实际还要看定位句前面的 visual intricacy，所以这里选 complexity。
+
+33 题也找到了定位句的 repeated motifs，我认为 movements 与 motifs 是同义替换，当然也是因为忘记了 motifs 的意思，实际 motifs 应该与 images 是同义替换，因为都是图案的意思。
+
+- amygdala 杏仁体（大脑中的两个区域之一，与记忆、情绪及嗅觉有关）
+- intricacy 错综复杂的事物（或细节）
+- intriguing 非常有趣的；引人入胜的；神秘的
+- motif 图案；动机
 
 ## C11-T3-P1
 
+8/9.
+
+第 9 题找到了定位句，空格处应该填入造成丝绸产业衰落的原因，材料类被 others 总结了，所以我写了 war，结果解析给的是 nylon。
+
+- mulberry 桑树；桑葚；深紫红色
+- unravel 解开；解体；崩溃；瓦解
+- peasant 农民；乡下人；庄稼人；村里人
+
 ## C11-T3-P2
+
+3/4.
+
+24 题没仔细看题干，人家问的是冬天的家在哪，前面已经说了夏天是在 park，然后我写了夏天的家。实际上 down onto the plains 描述了冬天的家在 plains。
+
+- pronghorn 叉角羚
+- antelope 羚羊；羚类动物
+- aphid 蚜虫；蚜虫类；蚜科
+- intricate 错综复杂的
+- wildebeest 牛羚；角马
+- sagebrush 蒿属植物；灌木蒿；灌木蒿丛
+- jurisdiction 权限；司法；管辖权；管辖范围
 
 ## C11-T3-P3
 
+2/6.
+
+这篇扫读第一遍感觉完全抓不住重点，然后重新看了一遍题目，感觉好多都有谱了，结果一看，错了 4 个。
+
+36 显然我找错了定位句，我找的是 B 段最后一句 Yet others go into mathematical procedures, but assume that the reader is adept in using algebra，所以快速写了 algebra。实际定位句是 A 段第二句 There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic，根据定位句，可以看出答案为 arithmetic。
+
+37 题虽然在定位居中也看到了 intuitive，但是感觉不太对，一般都需要逻辑思考，怎么还需要直觉思考呢？所以在其他句中找了 numerical，我以为这个单词是数理的意思，结果只是数字的意思。但是根据实际定位句 I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical) 可知，这里就是填 intuitive。
+
+39 题，找到的都是同一个定位句 You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments，结果我写的是 slowly，人家给的是 experiments。
+
+40 题的定位句 I attribute much of my success there to having learned, through the study of mathematics, and,in particular, theorems, how to analyze complicated principles 中有两个关键词，一个是 mathematics，一个是 theorems，我在这两个词间犹豫了很久，想着后者是插入语，就选前面的好了，结果就错了。实际是用 in particular 来定位具体的某个数学领域，即 theorems。
+
+- aficionado 迷；狂热爱好者
+- testimonial 证明书；推荐书；感谢信
+- carry out 实行；开展；完成
+
 ## C11-T4-P1
+
+4/4.
+
+- epigenetic 外成的；具有外成性质的
 
 ## C11-T4-P2
 
+无此题型。
+
 ## C11-T4-P3
+
+3/4.
+
+虽然对了三个，除了第一个是找到了定位句，其他都是凭感觉写的，找不到定位句。
+
+34 题的定位句是 Compared to language, all other inventions pale in significance, since everything we have ever achieved depends on language and originates from it，可知 originates 与 fundamental 同义。
+
+35 题的定位句 In its own right it is a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: this marvelous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which...。我是根据感觉选的，语言本身比较复杂，尽管仅由简单的声音组成，所以选了 complex。
+
+36 题我是根据题干后面的内容进行推测的，后面说忽略了复杂度，那前面一定是简单的，所以选了 easy。
+
+- incongruity 不调和；不相称；不协调的事物
+- hymn 唱赞歌；赞美
+- outlandish 稀奇古怪的；异国风味的
+- colossus 巨人；巨物；巨型雕像
+- sleek 光滑的；光亮的；线条流畅的；造型优美的
+- enlisted 入伍的；士兵的
+- contraption 奇异的机械；奇特的装置
+- forager 采集者；拓粮者；食者
+- savannah 热带和亚热带草原，稀树草原
+
+- measly 很小的；很少的；不足的
+
+- morsels 一小块；一点
+- splutter 急促而含糊地说；口齿不清地说
+- interminable 冗长的；没完没了的
+- unravel 解开；解明；散开
+- homage 敬辞；表示敬意的举动
