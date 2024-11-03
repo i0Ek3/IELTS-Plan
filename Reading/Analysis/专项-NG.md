@@ -206,6 +206,14 @@ only 一般是该题选 False 的标志词，但是考生一定要注意 only �
 
 ## C10-T3-P1
 
+3/6.
+
+5 按 figures 去找定位词了，没找到。实际是真实的数据，也没仔细看，所以选了 NG。实际在 C 段中是有提到这部分数据的，故 True。
+
+6 因为文中说的 6% 是针对全求范围的，题干说的是 Au，所以我选了 False。但是全球范围里不一定包含 Au，因此选 NG。
+
+10 没找到定位句，实际定位句是 However, because of problems of definition, which directly affect statistical measurement, it is not possible with any degree of certainty to provide precise, valid or reliable data about the extent of world-wide tourism participation or its economic impact，根据定位句可以判断，题干说的和原文不符，原文说很难，因此为 False。
+
 ## C10-T3-P2
 
 ## C10-T3-P3
