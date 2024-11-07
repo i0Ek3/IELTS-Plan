@@ -2,10 +2,6 @@
 
 Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另一种是给定单词让你选，还有一种是 C9 之后出现的，给定问题，然你回答最多 2 个单词。无论哪种，解题方法都是先判定空格处词性，然后再根据定位句句意、结构等判断。
 
-## C7-T2-P1
-
-无此题型。
-
 ## C7-T2-P2
 
 0/5.
@@ -24,37 +20,17 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 
 - collateral 抵押物；担保品；附属的；附加的；附带的
 
-## C7-T2-P3
-
-无此题型。
-
 ## C7-T3-P1
 
 7/7.
 
 这篇阅读的 summary 题目全对。先判断了词性，然后找了定位句，精读定位句进行选词。唯独不太确定的是第 10 题，虽然通过词性限制了该空只能选 D I J 三者之一，根据定位句中的 swapping and sharing，感觉 exchanging 更符合语义。但是做题时我没反应过来 swapping 是交换的意思，我还以为是吞咽，看了解析才发现。
 
-## C7-T3-P2
-
-无此题型。
-
-## C7-T3-P3
-
-无此题型。
-
 ## C7-T4-P1
 
 5/6.
 
 第 10 题死活找不到，写了 kite。看了解析，定位句是 Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians，空格前的 as 与定位句中的 for 对应，因此空格处填 sailors。不过仔细想想，题干中写的是 they knew how to use wind，实际与原文中的 harnessing the wind 是同义的，因此也可以定位到上面的定位句，但是当时是想不到的。
-
-## C7-T4-P2
-
-无此题型。
-
-## C7-T4-P3
-
-无此题型。
 
 ## C8-T2-P2
 
@@ -128,14 +104,6 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 
 4/4.
 
-## C9-T2-P2
-
-无此题型。
-
-## C9-T2-P3
-
-无此题型。
-
 ## C9-T3-P1
 
 2/4.
@@ -143,10 +111,6 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 第 11 题，从定位句的前一句可以推断出 JP 是描述注意的代表，因此正确答案为 A。但是这个是怎么确定它就是描述主义呢？而我选的是语言专家，我觉着也没有问题啊！
 
 第 12 题，我选的是 modern linguists，实际定位句中的 the custom of speaking = C popular speech，还是没有理解透彻导致，如果仔细一点可以看到定位句中有说到 original and only just standard，基本上可以判断为就是 based on 的地方。
-
-## C9-T3-P2
-
-无此题型。
 
 ## C9-T3-P3
 
@@ -168,10 +132,6 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 
 26 题定位句找错，真实定位是在最后一段最后一句，很容易找到正确答案是 ownership。
 
-## C9-T4-P3
-
-无此题型。
-
 ## C10-T1-P1
 
 7/8.
@@ -188,19 +148,11 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 - intricate 错综复杂的
 - relentless 不停的；持续强烈的；不减弱的；不放弃的
 
-## C10-T1-P2
-
-无此题型。
-
 ## C10-T1-P3
 
 3/5.
 
 32、33 纠结了好久，然后就把 33 题给改错了。定位句 When things change, we are hard-wired to play it safe 也找得到，就是没理解 hard-wired to play it safe 的意思，该句话是说人们的反应是谨慎行事（翻译给的是：我们天生就注重安全），对应选项的 E avoid risk。33 题是说，人们意识到会受到损失时，会怎么做，定位句中出现了 we invariably take more gambles，即人们通常会采取行为，因此对应选项的 A take chances。本质上还是不能正确理解句子意思导致。
-
-## C10-T2-P1
-
-无此题型。
 
 ## C10-T2-P2
 
@@ -267,20 +219,12 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 
 第 14 题找到了定位句，但是读起来比较费劲，没有分清楚句子成分，导致回答错误，实际题干的 personality 是定位句中 character 的同义词。根据定位句的成分，描述的是 transformation 是不可能的，可知 14 题填这个。
 
-## C10-T4-P3
-
-无此题型。
-
 ## C11-T1-P1
 
 7/7.
 
 - non­edible = inedible 不可食用的
 - detrimental 有害的；不利的
-
-## C11-T1-P2
-
-无此题型。
 
 ## C11-T1-P3
 
@@ -291,10 +235,6 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 36 题找错了定位句，实际定位句是 D 段第七句：Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists，我找的是 F 段了，错的有点离谱。
 
 - iodide 碘化物
-
-## C11-T2-P1
-
-无此题型。
 
 ## C11-T2-P2
 
@@ -362,11 +302,7 @@ Summary 题型分为 3 种，一种是让你自己从原文找单词填入，另
 
 4/4.
 
-- epigenetic 外成的；具有外成性质的
-
-## C11-T4-P2
-
-无此题型。
+- epigenetic 表观遗传
 
 ## C11-T4-P3
 
