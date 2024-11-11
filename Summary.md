@@ -46,6 +46,10 @@ S4 总体上感觉比 S3 简单，从我做题数据看的话。如果某些填�
 | aspirations    | asiprations    |      |
 | innovation     | invenation     |      |
 | mammals        | mamals         |      |
+| temporary      | temporay       |      |
+| youth          | yougth         |      |
+| silent         | slient         |      |
+| stress         | strees         |      |
 
 | 原文        | 备注                                                         |
 | ----------- | ------------------------------------------------------------ |
