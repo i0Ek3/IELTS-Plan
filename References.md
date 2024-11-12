@@ -1,6 +1,8 @@
 ## References
 
-- [飞书脑图](https://v0oyefxd4a.feishu.cn/wiki/OM21wPMFOi7Hoek2Z1ycVJHonwg)
+- [GitHub | 雅思备考](https://github.com/Penggeor/IELTS)
+  - [飞书 | 雅思备考脑图](https://v0oyefxd4a.feishu.cn/wiki/OM21wPMFOi7Hoek2Z1ycVJHonwg)
+  - [wukaipeng.com | IELTS](https://wukaipeng.com/english/category/-ielts-%E9%9B%85%E6%80%9D)
 - [朗播](https://ielts.langlib.com/)
 - [Bilibili | 雅思奶爸](https://space.bilibili.com/3546645128022118)
 - [小红书 | 迷胡去会阅读](https://www.xiaohongshu.com/user/profile/59468efb50c4b43f82f05750)
