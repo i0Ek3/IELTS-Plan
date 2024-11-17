@@ -12,47 +12,47 @@ S3 相对难一些，从我做题的情况看，S3 的正确率最低。没啥�
 
 S4 总体上感觉比 S3 简单，从我做题数据看的话。如果某些填空题漏掉了，可以根据题干猜一个词进去，不写白不写，没准还对了呢。我有好几次就是漏了，自己猜对了。最好要保证 S4 能不错。
 
-人名和地名的拼写是雅思常考内容。大家要注意三方面： (1) 先听单词的发音。(2) 再听字母的拼读；有些字母的发音比较接近，会导致听不清，但是如果注意听单词的发音，就比较容易听清楚悬哪些字母了。(3) 平时练习容易听错的四组字母发音： g/j m/n, o/l, a/c。
+人名和地名的拼写是雅思常考内容。大家要注意三方面： (1) 先听单词的发音。(2) 再听字母的拼读；有些字母的发音比较接近，会导致听不清，但是如果注意听单词的发音，就比较容易听清楚悬哪些字母了。(3) 平时练习容易听错的四组字母发音：g/j m/n, o/l, a/c。
 
 听力场景词和地图类描述可以看 [Listening/FrequentWords.md](#./Listening/FrequentWords.md) 的总结和 Listening/images 下的图片。因为图片内容来自网上，图中内容请大家要有自己的判断。
 
 这里例举一些我在专项过程中听错、写错、需要注意的单词或者词组：
 
-| 原文     | 听成     | 备注 |
-| -------- | -------- | ---- |
-| bank     | back     |      |
-| 15/50    | 50/15    |      |
-| mature   | material |      |
-| bedsit   | bed      |      |
-| Sunshade | Sunshine |      |
-| theme    | sea      |      |
-| bags     | bands    |      |
-| embassy  | empacy   |      |
-| fifth    | fithy    |      |
+| 原文     | 听成     | 备注                         |
+| -------- | -------- | ---------------------------- |
+| bank     | back     |                              |
+| 15/50    | 50/15    | teen 的发音长一些，ty 短一些 |
+| mature   | material |                              |
+| bedsit   | bed      |                              |
+| Sunshade | Sunshine |                              |
+| theme    | sea      |                              |
+| bags     | bands    |                              |
+| embassy  | empacy   |                              |
+| fifth    | fithy    |                              |
 
-| 原文           | 写成           | 备注 |
-| -------------- | -------------- | ---- |
-| Northern       | Northen        |      |
-| Red Flag       | Redflag        |      |
-| brother-in-law | brother in-law |      |
-| dinner         | diner          |      |
-| training       | traning        |      |
-| politics       | politcs        |      |
-| mushrooms      | mashrooms      |      |
-| garden         | graden         |      |
-| workbooks      | work books     |      |
-| note-taking    | notetaking     |      |
-| bitterness     | biterness      |      |
-| aspirations    | asiprations    |      |
-| innovation     | invenation     |      |
-| mammals        | mamals         |      |
-| temporary      | temporay       |      |
-| youth          | yougth         |      |
-| silent         | slient         |      |
-| stress         | strees         |      |
-| environment    | enviornment    |      |
-| mid-day        | midday         |      |
-| permanent      | pernament      |      |
+| 原文           | 写成           | 备注                                             |
+| -------------- | -------------- | ------------------------------------------------ |
+| Northern       | Northen        |                                                  |
+| Red Flag       | Redflag        | 注意哪些单词要连着写，哪些要用-，哪些要分开写    |
+| brother-in-law | brother in-law |                                                  |
+| dinner         | diner          |                                                  |
+| training       | traning        |                                                  |
+| politics       | politcs        |                                                  |
+| mushrooms      | mashrooms      |                                                  |
+| garden         | graden         |                                                  |
+| workbooks      | work books     |                                                  |
+| note-taking    | notetaking     |                                                  |
+| bitterness     | biterness      |                                                  |
+| aspirations    | asiprations    |                                                  |
+| innovation     | invenation     |                                                  |
+| mammals        | mamals         |                                                  |
+| temporary      | temporay       |                                                  |
+| youth          | yougth         |                                                  |
+| silent         | slient         |                                                  |
+| stress         | strees         |                                                  |
+| environment    | enviornment    |                                                  |
+| mid-day        | midday         | 这个到底有没有说法呢？有的推荐连写，有的推荐用 - |
+| permanent      | pernament      |                                                  |
 
 | 原文        | 备注                                                         |
 | ----------- | ------------------------------------------------------------ |
@@ -68,15 +68,15 @@ S4 总体上感觉比 S3 简单，从我做题数据看的话。如果某些填�
 
 考试时间 60min，正常顺序做题即可。分配好每个 P 的用时，比如 15 15 30 或者 15 20 25。平常一定要练习做题速度和正确率，如果做题情况超出预期（比如 10min 了一篇阅读还是没做出几道题），直接进入下个 P，以大局为重，等都做完了再回头来看前面的部分。
 
-阅读的本质是快速阅读找到定位句，然后对定位句做长难句分析。可以先读题干有个大概认知，然后利用题干的位置卡段落定位。
+阅读的本质是快速阅读找到定位句，然后对定位句做长难句分析。可以先读题干有个大概认知，然后利用题干的定位词快速扫读文章找到定位句进行分析。
 
-Heading 题目有时难有时简单，简单的读每段开头一句或者多读一句就解决了，难得可能需要整段都要读一下。如果做完不确定，可以把所有的 Heading 连在一起读一下看看是否通顺。解题方法还是要学会长难句分析。
+Heading 题目有时难有时简单，简单的读每段开头一句或者多读一句就解决了，难得可能需要整段都要读一下。如果做完不确定，可以把所有的 Heading 连在一起读一下看看是否通顺。解题方法还是要学会长难句分析，偶尔也要用上帝视角来思考阅读，不能只看表面。
 
-Matching 的话也是有难有易，需要注意题干是否有 NB，有的话某些选项可能会选多次，从目前做题情况看，B 项存在多选的概率较大。不过 Matching 也分种类，不同种类的难度不一。有时候出题顺序和定位句不一定是同一个顺序，需要有这个意识，以免浪费时间。
+Matching 的话也是有难有易，不同种类的 Matching 难度不一。人名、地点类匹配通常好定位句，补全句子或者类似概括类的相对难一些。此外需要注意题干是否有 NB，有的话某些选项可能会选多次。从目前做题情况看，B 项存在多选的概率较大。有时候出题顺序和定位句不一定是同一个顺序，需要有这个意识，以免浪费时间。
 
 Summary 感觉要比匹配简单些，但也要看具体的 Summary 题型。填空题的话，首先根据空格前后上下文确定好词性，然后根据选项或者原文进行排除。如果实在没有时间，对于有选项的 Summary 可以简单根据词性猜一个。如果是填空类 Summary 没思绪的，那就没有特别好的办法了，在定位句中找一个名词填入好了。如果连定位句也找不到，那就先练基本功吧。
 
-选择题，有单选和多选。单选通常会是比较具有概括性的选项，过于极端的一般不选。没时间的可以找一个概括性强的，有时间的还是要规矩做题。实在无法确定的，每个选项代入看下是否合理。多选的话，本质一样。
+选择题，有单选和多选。单选通常会是比较具有概括性的选项，过于极端的一般不选。没时间的可以找一个概括性强的，有时间的还是要规矩做题。实在无法确定的，每个选项代入看下是否合理。多选的话，本质一样，但是相对难一些。
 
 图表类题目有点类似于 Summary，从我做题的数据看，大部分定位句都在文章的倒数两段，因为图表题基本都是靠后的题目。大家要能快速定位，不要直接就从头开始去找，以免浪费时间。
 

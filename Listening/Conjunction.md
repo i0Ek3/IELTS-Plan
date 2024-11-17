@@ -1,138 +1,80 @@
 # 听力中的连词
 
+[WIP]
+
 听力中有些单词必须要连在一起写，有些单词要用连字符，有的则要分开写，这里例举一些，大家最好都能记住。
 
 **1 必须 连写 的单词**
 
-airplane 飞机
+- armchair 扶手椅
 
-armchair 扶手椅
+- baseball 垒球
 
-background 背景
+- bedsit 卧室
 
-baseball 垒球
+- booklet 小册子
 
-bathroom 浴室
+- booklist 书单
 
-bedsit 卧室
+- bookshop 书店
 
-booklet 小册子
+- bookstore  书店
 
-booklist 书单
+- breakdowns 故障
 
-bookshop 书店
+- cameraman 摄影师
 
-bookstore  书店
+- clockwork 发条装置
 
-breakdowns 故障
+- clubroom 俱乐部聚会室
 
-butterfly 蝴蝶
+- coastline 海岸线
 
-cameraman 摄影师
+- craftsmen 工匠
 
-centimeter 厘米
+- cupboard 碗柜
 
-checklist 清单
+- darkroom 暗房
 
-childcare 儿童照管
+- daylight 白天
 
-clockwork 发条装置
+- dishwasher 洗碗机
 
-clubhouse 俱乐部
+- downhill 下坡
 
-clubroom 俱乐部聚会室
+- fieldwork 野外工作
 
-coastline 海岸线
+- firewood 柴火
 
-cocktail 鸡尾酒
+- firework 烟火
 
-copyright 版权
+- floodwater 洪水
 
-craftsmen 工匠
+- footbridge 行人天桥
 
-cupboard 碗柜
+- footnote 脚注
 
-darkroom 暗房
+- footprint 脚印
 
-database 数据库
+- freshwater 淡水
 
-daylight 白天
+- homesick想家的
 
-deadline 最后期限
+- landlady女房东
 
-dishwasher 洗碗机
+- leaflet 传单
 
-downhill 下坡
+- lifeguard 救生员
 
-ecosystem 生态系统
+- lifespan 寿命
 
-eyesight 视力
+- lighthouse 灯塔
 
-feedback 反馈
+- livestock家畜
 
-fieldwork 野外工作
-
-firewood 柴火
-
-firework 烟火
-
-flashlight 手电筒
-
-floodwater 洪水
-
-footbridge 行人天桥
-
-footnote 脚注
-
-footprint 脚印
-
-freshwater 淡水
-
-greenhouse 温室
-
-handbook 手册
-
-handout 文字材料；施舍物
-
-hardware 计算机硬件
-
-headphone 耳机
-
-healthcare 医疗保健
-
-highway 公路
-
-homesick想家的
-
-Homework家庭作业
-
-keyboard键盘
-
-landlady女房东
-
-landmark地界标
-
-laptop笔记本电脑
-
-layout布局；设计
-
-leaflet传单
-
-Lifeguard 救生员
-
-lifespan寿命
-
-lifestyle生活方式
-
-lighthouse  灯塔
-
-livestock家畜
-
-Loudspeaker扩音器
+- loudspeaker扩音器
 
 microbiology微生物学
-
-microchip微芯片
 
 microfilm缩微胶卷
 
@@ -146,23 +88,7 @@ midnight午夜
 
 minibus小型公共汽车
 
-motorcycle 摩托车
-
-network网络
-
-newsletter时事通讯
-
-newspaper报纸
-
-northwest西北方向
-
 notebook笔记本
-
-online在线的
-
-outdoor户外的
-
-outline大纲
 
 overdue过期的
 
@@ -172,17 +98,11 @@ overhead在头上的
 
 painkillers止痛药
 
-password密码
-
 payphone付费电话
 
 photocopy  复印件、影印本
 
 placement布置
-
-platform讲台
-
-playground操场
 
 postcard明信片
 
@@ -196,8 +116,6 @@ rainfall降雨量
 
 rainforest雨林
 
-restroom休息室
-
 riverside河边
 
 salesman销售员
@@ -206,15 +124,9 @@ sandglass沙漏
 
 seafood海鲜
 
-showroom  陈列室
-
-software软件
-
-southeast东南方向
+showroom 陈列室
 
 sportswear运动装
-
-spotlight聚光灯
 
 stopwatch跑表
 
@@ -222,35 +134,15 @@ storehouse 仓库
 
 storeroom 库房
 
-sunlight日光
-
-sunset日落
-
 sunshade遮阳伞
-
-supermarket超市
-
-teamwork团队合作
 
 textbook课本
 
-thunderstorm风暴
-
-timetable时间表
-
 toothpaste 牙膏
-
-underestimate 低估
-
-undergraduate大学生
-
-underground 地下
 
 undersea 水下的
 
 upland高地
-
-upstairs楼上
 
 videotape录像带
 
@@ -259,8 +151,6 @@ warehouse 仓库
 waterfall 瀑布
 
 waterproof防水材料
-
-website 网站
 
 wheelchair 轮椅
 
@@ -284,29 +174,10 @@ workshop 研讨会
 
 **2 必须分开写 的单词**
 
-air conditioner        空调
-
-alarm clock         闹钟
-
-mass media         大众传播媒介
-
-case study          案例研究
-
-central heating        中央暖气系统
-
-contact lens          隐形眼镜
-
-notice board          布告牌
-
-remote control        遥控
-
-safety check          安全检查
-
-student card         学生卡
+- contact lens 隐形眼镜
+- notice board 布告牌
 
 **3 必须加 连字符 的单词**
-
-brother-in-law 内兄/弟，姊妹的丈夫
 
 cost-effective 划算的
 
@@ -320,25 +191,21 @@ drop-out 中途退学的人
 
 fast-foodshop 快餐店
 
-first-aidkit 急救箱
+first-aid kit 急救箱
 
-first-yearstudent 大学新生
+first-year student 大学新生
 
-four-coursedinner 4道菜的晚饭
+four-course dinner 4道菜的晚饭
 
-full-time 专职的，全日制的
+high-energy snack 高热量食品
 
-high-energysnack 高热量食品
-
-highly-trainedstaff 高度训练的员工
-
-large-scale 大规模的，大范围的
+highly-trained staff 高度训练的员工
 
 little-known 鲜为人知的
 
 low-impact 低强度的
 
-low-riskinvestment 低风险投资
+low-risk investment 低风险投资
 
 middle-aged 中年的
 
@@ -351,8 +218,6 @@ non-active 不活跃的
 non-fiction 纪实小说
 
 note-taking 记笔记
-
-part-timejob 兼职
 
 second-hand 二手的
 
@@ -369,8 +234,6 @@ self-evaluation 自我评价
 self-fundedstudent 自费生
 
 self-sufficient 自给自足的
-
-small-scale 小规模的
 
 well-organized 有序的，有条理的
 
