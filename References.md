@@ -1,4 +1,12 @@
-## References
+## Software
+
+- 雅思哥机考软件
+  - 电脑版比新东方雅思网页版好用太多了，软件排版等各方面碾压对手，解析定位句定位也很给力，有真实模考和日常考试两种模式，不知道为啥我现在才开始用，极力推荐。
+  - 手机版也很不错，可以在零碎时间用来看口语题目
+
+- 不背单词
+
+## Link
 
 - [GitHub | 雅思备考](https://github.com/Penggeor/IELTS)
   - [飞书 | 雅思备考脑图](https://v0oyefxd4a.feishu.cn/wiki/OM21wPMFOi7Hoek2Z1ycVJHonwg)
