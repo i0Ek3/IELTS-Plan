@@ -8,6 +8,7 @@
 
 ## Link
 
+- [Bilibili | 跟着开哥去屠鸭](https://b23.tv/np8UOio)
 - [GitHub | 雅思备考](https://github.com/Penggeor/IELTS)
   - [飞书 | 雅思备考脑图](https://v0oyefxd4a.feishu.cn/wiki/OM21wPMFOi7Hoek2Z1ycVJHonwg)
   - [wukaipeng.com | IELTS](https://wukaipeng.com/english/category/-ielts-%E9%9B%85%E6%80%9D)
