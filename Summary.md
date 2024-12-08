@@ -43,7 +43,7 @@ S4 总体上感觉比 S3 简单，从我做题数据看的话。如果某些填�
 | workbooks      | work books     |                                                  |
 | note-taking    | notetaking     |                                                  |
 | bitterness     | biterness      |                                                  |
-| aspirations    | asiprations    |                                                  |
+| aspiration     | asipration     |                                                  |
 | innovation     | invenation     |                                                  |
 | mammals        | mamals         |                                                  |
 | temporary      | temporay       |                                                  |
@@ -53,7 +53,7 @@ S4 总体上感觉比 S3 简单，从我做题数据看的话。如果某些填�
 | environment    | enviornment    |                                                  |
 | mid-day        | midday         | 这个到底有没有说法呢？有的推荐连写，有的推荐用 - |
 | permanent      | pernament      |                                                  |
-| suit           | suite          |                                                  |
+| suit           | suite          | 前者是西装，适合的意思，后者是套房，套间的意思   |
 | clarinet       | cleronet       |                                                  |
 | parade         | per-read       |                                                  |
 | drummer        | drumer         |                                                  |
@@ -65,6 +65,7 @@ S4 总体上感觉比 S3 简单，从我做题数据看的话。如果某些填�
 | college        | colleage       |                                                  |
 | opportunity    | oppotunity     |                                                  |
 | behaviour      |                | 总是会写成其他乱七八糟的拼写                     |
+| disease        | desease        |                                                  |
 
 | 原文        | 备注                                                         |
 | ----------- | ------------------------------------------------------------ |
