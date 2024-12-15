@@ -12,6 +12,10 @@ There'll be three stages through the preparation:
 - Intensive training: C11-C15
 - Sprint before exam: C16-C19
 
+Status: Done
+
+Score: Comming soon...
+
 
 ## Enrollment
 
