@@ -14,7 +14,11 @@ There'll be three stages through the preparation:
 
 Status: Done
 
-Score: Comming soon...
+Score(First time): 😂
+
+| 听力 | 阅读 | 写作 | 口语 | 总成绩 |
+| ---- | ---- | ---- | ---- | ------ |
+| 6.0  | 6.5  | 6.5  | 5.5  | 6.0    |
 
 
 ## Enrollment
