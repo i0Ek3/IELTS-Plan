@@ -2,25 +2,38 @@
 
 Personal preparation record for IELTS.
 
-## Goal
+## Result
 
-~~Overall socre \>= 7, subscore >= 6.~~
+Stage One Status: Done
 
-There'll be three stages through the preparation:
-
-- Special training: C4-C10
-- Intensive training: C11-C15
-- Sprint before exam: C16-C19
-
-Status: Done
-
-Score(First time): 😂
+Stage One Score(First time): 😂
 
 | 听力 | 阅读 | 写作 | 口语 | 总成绩  |
 | ---- | ---- | ---- | ---- | ------- |
 | 6.0  | 6.5  | 6.5  | 5.5  | 6.0(B2) |
 
 [![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/cefr.jpg)](https://www.chinaielts.org/img/ref.pdf)
+
+## Structure
+
+```Shell
+├── Materials
+│   ├── IELTS Test
+│   ├── IELTS Test Audio
+│   └── Mind
+├── README.md
+├── References.md
+├── Stage 1
+│   ├── Listening
+│   ├── Reading
+│   ├── Speaking
+│   ├── Summary.md
+│   ├── Words
+│   └── Writing
+├── Stage 2
+│   └── Listening
+└── images
+```
 
 ## Enrollment
 
