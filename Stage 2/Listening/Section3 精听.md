@@ -10,13 +10,48 @@
 
 精听的另一个目的是克服口语对话中听不清楚对方说辞的问题，你要能先听明白对方说的，才能更进一步地回答要点。
 
-## C19-S3
+更具体地，先将听力内容（可以是剑雅真题听力，也可以是电视剧片段或者视频等）简单浏览一遍，有一个大概印象。然后解决内容中的生词、地道表达等。然后采用 1x 1.25x 1.5x 1.25x 1x 精听，精听过程中可以跟读对发音进行训练，掌握连读、弱读、重读部分，直至形成自己的习惯。
+
+## C19-T2-S3
+
+### 连读
+
+- that I emailed you
+- I’ve had a look at it = I had looka tit
+- more to it than that = more to it nat
+- I didn't realise until I read = I didn't realisen ti I read
+- wear them all the time now = wear'em all the time now
+- look a bit = looka bi
+- I don’t think they’re right for that = I don think they're ri for that
+- look quite smart on pupils = look quite smar ton pupils
+- old pair of shoes = o pair shoes
+- I do tend to wear = I do ten to wear
+- I must admit = I musta dmit
+- gone out of = gone otta
+- great on me = greaton me
+- have increased = have'in creased
+- but then it said that
+- there are some in the interview = there're somin the interview
+- mud and grass = mudan grass
+- you’d think it would have been = you think it would've been
+- they looked like they’d been worn = they looked like they been worn
+- ship them overseas, though = ship them over seathough
+
+### 生词
+
+- footwear 鞋类
+- hard-wearing 经久耐用的，耐磨的
+- scruffy 邋遢的，肮脏的
+- high-heeled 高跟鞋
+- suede 麂皮材质
+- beige 米色的
+- so much happens 会发生许多事情
+
+## C19-T1-S3
 
 耗时 3h34m，从 19:00 开始听，一直到 22:34 结束。这次暂且没有按照上面的节奏进行精听，自己先找了下感觉。先单句听，直到没有听不出的，然后 1x 1.25x 1.5x 1.8x 2.0x 1.8x 1.5 1.25 1x 单句听，将全篇听完。之后再 1x 1.25x 1.5x 1.8x 2.0x 1.8x 1.5 1.25 1x 整篇听。感觉确实不一样，神清气爽。
 
 ### 连读
-
-> “听起来像”用 “=” 表示。
 
 - vegan alternative = vaga nal ternative
 - main aims = mai naims
