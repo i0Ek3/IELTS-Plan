@@ -4,15 +4,13 @@ Personal preparation record for IELTS.
 
 ## Result
 
-Stage One Status: Done
+EOR Result:
+
+![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/eor.jpg)
 
 Stage One Score(First time): 😂
 
-| 听力 | 阅读 | 写作 | 口语 | 总成绩  |
-| ---- | ---- | ---- | ---- | ------- |
-| 6.0  | 6.5  | 6.5  | 5.5  | 6.0(B2) |
-
-[![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/cefr.jpg)](https://www.chinaielts.org/img/ref.pdf)
+![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/before.jpg)
 
 ## Structure
 
@@ -24,14 +22,7 @@ Stage One Score(First time): 😂
 ├── README.md
 ├── References.md
 ├── Stage 1
-│   ├── Listening
-│   ├── Reading
-│   ├── Speaking
-│   ├── Summary.md
-│   ├── Words
-│   └── Writing
 ├── Stage 2
-│   └── Listening
 └── images
 ```
 
