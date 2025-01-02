@@ -4,11 +4,11 @@ Personal preparation record for IELTS.
 
 ## Result
 
-EOR Result:
+### EOR Result:
 
 ![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/eor.jpg)
 
-Stage One Score(First time): 😂
+### Stage One Score(First time): 😂
 
 ![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/before.jpg)
 
