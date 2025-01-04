@@ -18,12 +18,22 @@
 
 ### 连读
 
-- 
+- 注意 weren’t 的发音
+- Would I have to get = Wouldie have to get（弱读）
+- some more = somore（听着有点像 small）
+- going to != go into
+- would have = would've
 
 ### 生词
 
 - not brilliant 算不上好
 - as such 这方面
+- That might be rather broad 这可能比较宽泛
+- follow-up 后续
+- food colouring 食用色素
+- pellet 粉末，颗粒
+- electronic balance 电子秤
+- standard deviation 标准偏差
 
 ## C19-T2-S3
 
