@@ -14,6 +14,28 @@
 
 此后，要能锻炼识别整个句意的能力。精听更多地是练习细节，但是别人说话是一整个句子输出的，不会一点一点断续输出的。所以在完成细节方面的练习后，要能对整个句意进行把控，可以在一定程度上解决听了后面忘前面的问题。
 
+> 下文中记录的“听起来像”用 = 表示了。
+
+## C19-T4-S3
+
+### 连读
+
+- it's the acid = it's d acid
+- I’d regret = I dregret
+- aren’t quite as weak = aren’t quitas weak
+- keep them out on shelves = keep'em outon shelves
+- book on a table = bookon a table
+- can be a work of art in themselves = can bea work of artin themselves
+- shelf aside = shelfa side
+- books aren’t cheap, though, are they? = books aren’t cheap, so are they?
+- he puts them out in the shop = he puts'em outin the shop
+- so that parents = so their parents
+
+### 生词
+
+- attic 阁楼，储藏间
+- pushchair 婴儿车
+
 ## C19-T3-S3
 
 ### 连读
