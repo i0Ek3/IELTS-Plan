@@ -16,6 +16,21 @@
 
 > 下文中记录的“听起来像”用 = 表示了。
 
+## C18-T1-S3
+
+### 连读 
+
+- think of the talk, of the 读得快、轻，容易遗漏
+- we know we’re = nowhere
+- even thought of = even photo
+- kept saying things like, kept 的发音一时有点听不出来
+- and we’re only = and reonly，有点听不出到底咋连读的
+- our = re 或者 a，需要根据语境确定
+- the experts who = the expert so
+- It must have felt amazing = It must felt amazing
+- her own = heron
+- garments sold there = garments sodan
+
 ## C19-T4-S3
 
 ### 连读
